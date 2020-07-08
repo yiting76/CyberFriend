@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CyberFriends/precache-manifest.f31783548a422d3ad99c48224ae37775.js"
+  "/CyberFriends/precache-manifest.8a407a10e092f8b2a2e3925042ea4545.js"
 );
 
 self.addEventListener('message', (event) => {

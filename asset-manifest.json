@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CyberFriends/static/css/main.f5453dd4.chunk.css",
-    "main.js": "/CyberFriends/static/js/main.8833a993.chunk.js",
-    "main.js.map": "/CyberFriends/static/js/main.8833a993.chunk.js.map",
+    "main.js": "/CyberFriends/static/js/main.410ec1ef.chunk.js",
+    "main.js.map": "/CyberFriends/static/js/main.410ec1ef.chunk.js.map",
     "runtime-main.js": "/CyberFriends/static/js/runtime-main.19006e3c.js",
     "runtime-main.js.map": "/CyberFriends/static/js/runtime-main.19006e3c.js.map",
     "static/css/2.3c03f26f.chunk.css": "/CyberFriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.88b08eb1.chunk.js": "/CyberFriends/static/js/2.88b08eb1.chunk.js",
     "static/js/2.88b08eb1.chunk.js.map": "/CyberFriends/static/js/2.88b08eb1.chunk.js.map",
     "index.html": "/CyberFriends/index.html",
-    "precache-manifest.f31783548a422d3ad99c48224ae37775.js": "/CyberFriends/precache-manifest.f31783548a422d3ad99c48224ae37775.js",
+    "precache-manifest.8a407a10e092f8b2a2e3925042ea4545.js": "/CyberFriends/precache-manifest.8a407a10e092f8b2a2e3925042ea4545.js",
     "service-worker.js": "/CyberFriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/CyberFriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.f5453dd4.chunk.css.map": "/CyberFriends/static/css/main.f5453dd4.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.88b08eb1.chunk.js",
     "static/css/main.f5453dd4.chunk.css",
-    "static/js/main.8833a993.chunk.js"
+    "static/js/main.410ec1ef.chunk.js"
   ]
 }
