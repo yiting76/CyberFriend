@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbbe0382835fc7b6a9ae62eb7c6ee2de",
+    "revision": "5f3a161b228f74a152d1bd733001f492",
     "url": "/CyberFriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CyberFriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "f919524fab1cc759b120",
+    "revision": "bfd53f4c5e77998bae70",
     "url": "/CyberFriends/static/css/main.f5453dd4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CyberFriends/static/js/2.88b08eb1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f919524fab1cc759b120",
-    "url": "/CyberFriends/static/js/main.410ec1ef.chunk.js"
+    "revision": "bfd53f4c5e77998bae70",
+    "url": "/CyberFriends/static/js/main.7b25aadf.chunk.js"
   },
   {
     "revision": "f729d4dfc1364d158537",
